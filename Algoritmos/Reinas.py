@@ -1,3 +1,4 @@
+#Backtracking
 def revFilaColumna(fila, columna, numReinas):
     #Verifica si hay una reina en la misma fila o columna.
     for i in range(numReinas):
